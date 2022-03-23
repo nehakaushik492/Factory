@@ -33,6 +33,6 @@ public enum Furniture {
 	 * @return The furniture's cost
 	 */
 	public float cost() {
-		return -1.0f;
+		return this.cost;
 	}
 }
